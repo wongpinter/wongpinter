@@ -1,4 +1,20 @@
-### Hi there 👋
+<img src="https://res.cloudinary.com/sugengme/image/upload/v1626782571/banner.png">
+
+# Hello! Welcome to my github profile 👋, I'm Wongpinter (Sugeng). I'm a full stack developer from Indonesia
+
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongpinter&hide=html,css, tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4">](https://metrics.lecoq.io/ouuan?template=classic)
+
+### Little fun fact about me
+
+-   :hammer_and_pick: Currently I'm learning about Golang & Rust
+-   :package: [Python, PHP, Typescript, HTML, CSS, Golang, Flutter & Dart]
+-   :pencil2: OSX / Oh My Zsh / Visual Code, Goland, PyCharm / Firefox
+-   :man_scientist: [React, Redux, Node, Docker]
+-   :man: Pronouns: he/him
+
+---
+
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
