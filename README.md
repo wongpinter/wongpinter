@@ -6,7 +6,7 @@
 
 ### Little fun fact about me
 
--   :hammer_and_pick: Currently I'm learning about Golang & Rust
+-   :hammer_and_pick: Currently I'm learning about Rust
 -   :package: [Python, PHP, Typescript, HTML, CSS, Golang, Flutter & Dart]
 -   :pencil2: OSX / Oh My Zsh / Visual Code, Goland, PyCharm / Firefox
 -   :man_scientist: [React, Redux, Node, Docker]
