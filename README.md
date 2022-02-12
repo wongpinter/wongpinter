@@ -58,17 +58,17 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Go                       7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
 
 
- Last Updated on 11/02/2022 18:39:56 UTC
+ Last Updated on 12/02/2022 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
