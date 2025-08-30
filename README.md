@@ -7,8 +7,8 @@
 ### Little fun fact about me
 
 -   :hammer_and_pick: Currently I'm learning about Rust
--   :package: [Python, PHP, Typescript, HTML, CSS, Golang, Flutter & Dart]
--   :pencil2: OSX / Oh My Zsh / Visual Code, Goland, PyCharm / Firefox
+-   :package: [Python, PHP, Typescript, HTML, CSS, Golang, Kotlin, Flutter & Dart]
+-   :pencil2: Windows with WSL2 / Oh My Zsh / Visual Code, NeoVim / Firefox
 -   :man_scientist: [React, Redux, Node, Docker]
 -   :man: Pronouns: he/him
 
