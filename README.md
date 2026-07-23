@@ -11,9 +11,9 @@ I build things that talk to other things — API gateways, real-time data pipeli
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
   </a>
 </p>
 
