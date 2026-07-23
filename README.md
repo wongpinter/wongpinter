@@ -1,90 +1,46 @@
 <img src="https://res.cloudinary.com/sugengme/image/upload/v1626782571/banner.png">
 
-# Hello! Welcome to my github profile 👋, I'm Wongpinter (Sugeng). I'm a full stack developer from Indonesia
+# 👋 Hi, I'm Sugeng (Wongpinter)
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongpinter&hide=html,css, tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4">](https://metrics.lecoq.io/ouuan?template=classic)
+**Senior Backend Engineer · 12+ years · Jakarta, Indonesia**
 
-### Little fun fact about me
+I build things that talk to other things — API gateways, real-time data pipelines, CLI tools, and the occasional AI agent. Mostly in Go.
 
--   :hammer_and_pick: Currently I'm learning about Rust
--   :package: [Python, PHP, Typescript, HTML, CSS, Golang, Kotlin, Flutter & Dart]
--   :pencil2: Windows with WSL2 / Oh My Zsh / Visual Code, NeoVim / Firefox
--   :man_scientist: [React, Redux, Node, Docker]
--   :man: Pronouns: he/him
+> Currently hacking on **[clipush](https://github.com/wongpinter/clipush)** — clipboard-to-SSH file upload for remote dev workflows.
 
 ---
 
+## 🛠 What I'm working on
 
+- **[clipush](https://github.com/wongpinter/clipush)** — Go CLI that reads clipboard images/files, SCPs them to a remote host, and replaces clipboard with the remote path. For devs who live in SSH.
+- **AI-powered customer service agents** — MCP Agent in Go + LLMs, integrated with WhatsApp Meta API. Automating 80% of routine inquiries.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2031%20mins-blue)
+## 📦 Open Source
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [godoo](https://github.com/wongpinter/godoo) | Go Odoo XML-RPC library — type-safe wrapper adopted by 50+ companies | Go, XML-RPC |
+| [whatsapp-meta-api](https://github.com/wongpinter/whatsapp-meta-api) | Go library for WhatsApp Business Cloud API — messaging, webhooks, templates, flows | Go |
+| [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) | Python tool to download web novels → EPUB with professional formatting | Python |
+| [keyboard-trainer](https://github.com/wongpinter/keyboard-trainer) | Interactive keyboard layout training app for split-keyboard enthusiasts | React |
+| [ketawa-mobile-app](https://github.com/wongpinter/ketawa-mobile-app) | Android reader for ketawa.com comedy platform | Kotlin |
 
-**I'm an Early 🐤** 
+## 🧰 Tech Stack
 
-```text
-🌞 Morning                10 commits          ██████████████████░░░░░░░   71.43 % 
-🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌃 Evening                3 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
+**Daily drivers:** Go · Python · PHP · TypeScript · PostgreSQL · Redis · Docker · GCP
 
-```text
-Monday                   2 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  4 commits           ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Friday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Saturday                 6 commits           ███████████░░░░░░░░░░░░░░   42.86 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+**Also fluent in:** React · Next.js · Flutter · Kotlin · RabbitMQ · BigQuery · Pub/Sub · FastAPI · Django
 
+**Tools:** Neovim · VS Code · WSL2 · Oh My Zsh · Firefox
 
-📊 **This Week I Spent My Time On** 
+**Learning:** Rust · Distributed systems · AI/LLM integration
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
+## 📫 Find me
 
-💬 Programming Languages: 
-Go                       25 hrs 21 mins      ████████████████████████░   96.74 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+- 🌐 [wongpinter.com](https://wongpinter.com)
+- 🐦 [@the_wongpinter](https://twitter.com/the_wongpinter)
+- 💼 [LinkedIn](https://linkedin.com/in/wongpinter)
 
-🔥 Editors: 
-VS Code                  26 hrs 12 mins      █████████████████████████   100.00 % 
-```
+---
 
-**I Mostly Code in Go** 
-
-```text
-Go                       7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
- Last Updated on 11/03/2023 18:32:18 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**wongpinter/wongpinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"The best code is the code never written. The second best ships Friday."*
