@@ -6,7 +6,7 @@
 
 I build things that talk to other things — API gateways, real-time data pipelines, CLI tools, and the occasional AI agent. Mostly in Go.
 
-> Currently hacking on **[clipush](https://github.com/wongpinter/clipush)** — clipboard-to-SSH file upload for remote dev workflows.
+> Currently hacking on **[GDM](https://github.com/wongpinter/gdm)** — terminal download manager for segmented HTTP and BitTorrent downloads.
 
 ---
 
@@ -27,6 +27,7 @@ I build things that talk to other things — API gateways, real-time data pipeli
 
 ## 🛠 What I'm working on
 
+- **[GDM](https://github.com/wongpinter/gdm)** — terminal download manager for segmented HTTP and BitTorrent downloads.
 - **[clipush](https://github.com/wongpinter/clipush)** — Go CLI that reads clipboard images/files, SCPs them to a remote host, and replaces clipboard with the remote path. For devs who live in SSH.
 - **AI-powered customer service agents** — MCP Agent in Go + LLMs, integrated with WhatsApp Meta API. Automating 80% of routine inquiries.
 
@@ -34,6 +35,7 @@ I build things that talk to other things — API gateways, real-time data pipeli
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [GDM](https://github.com/wongpinter/gdm) | Terminal download manager for segmented HTTP and BitTorrent downloads | Go, BitTorrent |
 | [godoo](https://github.com/wongpinter/godoo) | Go Odoo XML-RPC library — type-safe wrapper adopted by 50+ companies | Go, XML-RPC |
 | [whatsapp-meta-api](https://github.com/wongpinter/whatsapp-meta-api) | Go library for WhatsApp Business Cloud API — messaging, webhooks, templates, flows | Go |
 | [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) | Python tool to download web novels → EPUB with professional formatting | Python |
