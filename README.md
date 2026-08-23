@@ -50,6 +50,10 @@ Name and description only — source is not public.
 - **Resonance** — React web application.
 - **Connect Words** — browser-based word puzzle game (vanilla JavaScript).
 - **Tetris 3D** — 3D Tetris rendered in the browser (vanilla JavaScript).
+- **DapurKu Go** — household pantry, inventory, shopping & price tracking backend; successor to PantryKu (Go, PostgreSQL, Redis).
+- **Bank Soal** — family question-bank: phone-photo hardcopy → Gemini Flash → markdown → AI-generated practice questions, offline-first with parent review gate (TypeScript, KaTeX, Gemini).
+- **Apothecary App** — Indonesian apotek & digital-health market research + build plan (8% health-app adoption, Halodoc-led); WhatsApp gateway for pharmacy flows (Research → Go).
+- **MemoDirector** — PAO (Person-Action-Object) casting & memorization director for mnemonic training (TypeScript).
 
 ## 🤝 Open contributions
 
