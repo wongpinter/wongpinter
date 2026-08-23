@@ -54,6 +54,7 @@ Name and description only — source is not public.
 - **Bank Soal** — family question-bank: phone-photo hardcopy → Gemini Flash → markdown → AI-generated practice questions, offline-first with parent review gate (TypeScript, KaTeX, Gemini).
 - **Apothecary App** — Indonesian apotek & digital-health market research + build plan (8% health-app adoption, Halodoc-led); WhatsApp gateway for pharmacy flows (Research → Go).
 - **MemoDirector** — PAO (Person-Action-Object) casting & memorization director for mnemonic training (TypeScript).
+- **Agent Memory (Memory Pi)** — persistent memory layer for AI agents; dense embeddings, importance-weighted recall, multi-agent orchestration (Python, MCP, embeddings).
 
 ## 🤝 Open contributions
 
