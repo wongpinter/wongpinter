@@ -55,6 +55,7 @@ Name and description only — source is not public.
 - **Apothecary App** — Indonesian apotek & digital-health market research + build plan (8% health-app adoption, Halodoc-led); WhatsApp gateway for pharmacy flows (Research → Go).
 - **MemoDirector** — PAO (Person-Action-Object) casting & memorization director for mnemonic training (TypeScript).
 - **Agent Memory (Memory Pi)** — persistent memory layer for AI agents; dense embeddings, importance-weighted recall, multi-agent orchestration (Python, MCP, embeddings).
+- **GadaiKu** — privacy-first, offline-first pawn & gold asset tracker for Indonesia: dual calculation engine (Conventional KCA + Pegadaian Syariah Rahn), gold purity/equity appraisal, auto backup, PIN + biometric app lock (Flutter, Isar, Riverpod).
 
 ## 🤝 Open contributions
 
@@ -72,7 +73,7 @@ I write production code in a broad range of languages — here's what each one s
 | **Python** | FastAPI + Django services, webnovel-scraper, manga-dl, AI/LLM tooling, boilerplates |
 | **TypeScript / JavaScript** | React / Next.js apps, Cloudflare Workers, Chrome extensions, canvas tools |
 | **PHP** | Laravel / Lumen APIs, SOAP clients, Google Directory integration |
-| **Dart / Flutter** | Cross-platform mobile apps (pantryku, StoryGrabber mobile) |
+| **Dart / Flutter** | Cross-platform mobile apps (pantryku, StoryGrabber mobile, GadaiKu pawn tracker) |
 | **Kotlin** | Native Android (ketawa-reader-app) |
 | **Rust** | Learning — exploring systems programming |
 | **Shell / Lua** | Dotfiles, dev-server bootstrap, automation |
