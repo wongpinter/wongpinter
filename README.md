@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Banner" width="100%">
+<img src="assets/banner.jpg" alt="Banner" width="100%">
 
 # 👋 Hi, I'm Sugeng (Wongpinter)
 
@@ -11,9 +11,9 @@ I build systems that move data reliably — API gateways, real-time pipelines, c
 ---
 
 <p align="center">
-  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
   </a>
 </p>
 
@@ -28,16 +28,13 @@ Production-grade tools and libraries — systems programming, data plumbing, and
 | [walstream](https://github.com/wongpinter/walstream) | Change Data Capture (CDC) tool that tails PostgreSQL WAL and streams changes to message brokers | Go, PostgreSQL, RabbitMQ |
 | [gdm](https://github.com/wongpinter/gdm) | Terminal download manager with segmented HTTP and BitTorrent support | Go, BitTorrent |
 | [go-whatsapp](https://github.com/wongpinter/go-whatsapp) | Type-safe Go library for the WhatsApp Business Cloud API — messaging, webhooks, templates, flows | Go |
-| [godoo](https://github.com/wongpinter/godoo) | Odoo XML-RPC wrapper — adopted by 50+ companies | Go, XML-RPC |
+| [godoo](https://github.com/wongpinter/godoo) | Odoo XML-RPC wrapper — adopted across 50+ production deployments | Go, XML-RPC |
 | [gosh](https://github.com/wongpinter/gosh) | Configurable SSH server framework: auth, command handling, logging | Go, SSH |
 | [agent-property-mcp](https://github.com/wongpinter/agent-property-mcp) | Production-ready Model Context Protocol (MCP) server in Go, multiple transports | Go, MCP |
-| [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) | Web novel downloader → accessible, well-formatted EPUB | Python |
-| [manga-dl](https://github.com/wongpinter/manga-dl) | Concurrent async manga scraper | Python |
 | [sregep-bot](https://github.com/wongpinter/sregep-bot) | Serverless Telegram worklog bot with analytics + GitHub/Jira sync | TypeScript, Cloudflare Workers |
-| [yet-another-lm-extractor](https://github.com/wongpinter/yet-another-lm-extractor) | Chrome extension: NotebookLM flashcards → JSON/CSV/Anki | JavaScript |
 | [inktrace](https://github.com/wongpinter/inktrace) | Handwriting worksheet generator, print-ready PDFs | TypeScript |
-| [ketawa-reader-app](https://github.com/wongpinter/ketawa-reader-app) | Android reader app for ketawa.com | Kotlin |
-| [pantryku](https://github.com/wongpinter/pantryku) | Pantry management system + mobile app | Dart / Flutter |
+
+More: [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) · [manga-dl](https://github.com/wongpinter/manga-dl) · [yet-another-lm-extractor](https://github.com/wongpinter/yet-another-lm-extractor) · [ketawa-reader-app](https://github.com/wongpinter/ketawa-reader-app) · [pantryku](https://github.com/wongpinter/pantryku)
 
 ## 🔒 Private / internal projects
 
@@ -78,25 +75,15 @@ I write production code in a broad range of languages — here's what each one s
 | **Rust** | Learning — exploring systems programming |
 | **Shell / Lua** | Dotfiles, dev-server bootstrap, automation |
 
-## 🧰 Tech Stack
-
-**Backend:** Go · Python (FastAPI, Django) · PHP (Laravel) · PostgreSQL · Redis · RabbitMQ · REST · gRPC · SOAP/XML-RPC
-
-**Data & streaming:** PostgreSQL WAL / CDC · Pub/Sub · BigQuery · message queues · webhooks
-
-**AI:** Model Context Protocol (MCP) · LLM integration · agentic workflows · WhatsApp Meta API
-
-**Frontend / mobile:** React · Next.js · TypeScript · Flutter · Kotlin · Tailwind
-
-**Infra:** Docker · Docker Compose · Traefik · Nginx · GitHub Actions · Cloudflare Workers · GCP
-
-**Tools:** Neovim · VS Code · WSL2 · Oh My Zsh · Firefox
 
 ## 📫 Find me
 
 - 🌐 [wongpinter.com](https://wongpinter.com)
 - 🐦 [@the_wongpinter](https://twitter.com/the_wongpinter)
 - 💼 [LinkedIn](https://linkedin.com/in/wongpinter)
+- ✉️ [the.wongpinter@gmail.com](mailto:the.wongpinter@gmail.com)
+
+> Open to freelance backend / API / automation & AI-agent work. Jakarta timezone, remote-friendly.
 
 ---
 
