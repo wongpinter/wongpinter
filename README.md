@@ -92,7 +92,7 @@ I write production code in a broad range of languages — here's what each one s
 
 - 🌐 [wongpinter.com](https://wongpinter.com)
 - 🐦 [@the_wongpinter](https://twitter.com/the_wongpinter)
-- 💼 [LinkedIn](https://linkedin.com/in/wongpinter)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sugengs/)
 - ✉️ [the.wongpinter@gmail.com](mailto:the.wongpinter@gmail.com)
 
 > Open to freelance backend / API / automation & AI-agent work. Jakarta timezone, remote-friendly.
