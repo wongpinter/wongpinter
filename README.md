@@ -19,6 +19,12 @@ I build systems that move data reliably — API gateways, real-time pipelines, c
 
 ---
 
+<p align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
+---
+
 ## 🏆 Projects that sell
 
 Production-grade tools and libraries — systems programming, data plumbing, and developer tooling.
