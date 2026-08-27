@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/sugengme/image/upload/v1626782571/banner.png">
+<img src="assets/banner.png" alt="Banner" width="100%">
 
 # 👋 Hi, I'm Sugeng (Wongpinter)
 
