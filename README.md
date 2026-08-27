@@ -38,21 +38,23 @@ More: [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) · [man
 
 ## 🔒 Private / internal projects
 
-Name and description only — source is not public.
+Source is not public — names, what they do, and stack.
 
-- **CRM Backend** — multi-module CRM API: customer management, payments, order/integration flows (Go).
-- **WhatsApp Gateway** — production messaging gateway: planning, integrations, WhatsApp Business API flows (Go).
-- **AI Customer Service Agents** — MCP agent + LLMs integrated with the WhatsApp Meta API; automates ~80% of routine inquiries.
-- **OmniSport** — sports facility management platform with hexagonal architecture (Go).
-- **Resonance** — React web application.
-- **Connect Words** — browser-based word puzzle game (vanilla JavaScript).
-- **Tetris 3D** — 3D Tetris rendered in the browser (vanilla JavaScript).
-- **DapurKu Go** — household pantry, inventory, shopping & price tracking backend; successor to PantryKu (Go, PostgreSQL, Redis).
-- **Bank Soal** — family question-bank: phone-photo hardcopy → Gemini Flash → markdown → AI-generated practice questions, offline-first with parent review gate (TypeScript, KaTeX, Gemini).
-- **Apothecary App** — Indonesian apotek & digital-health market research + build plan (8% health-app adoption, Halodoc-led); WhatsApp gateway for pharmacy flows (Research → Go).
-- **MemoDirector** — PAO (Person-Action-Object) casting & memorization director for mnemonic training (TypeScript).
-- **Agent Memory (Memory Pi)** — persistent memory layer for AI agents; dense embeddings, importance-weighted recall, multi-agent orchestration (Python, MCP, embeddings).
-- **GadaiKu** — privacy-first, offline-first pawn & gold asset tracker for Indonesia: dual calculation engine (Conventional KCA + Pegadaian Syariah Rahn), gold purity/equity appraisal, auto backup, PIN + biometric app lock (Flutter, Isar, Riverpod).
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| CRM Backend | Multi-module CRM API: customer management, payments, order/integration flows | Go |
+| WhatsApp Gateway | Production messaging gateway: planning, integrations, WhatsApp Business API flows | Go |
+| AI Customer Service Agents | MCP agent + LLMs integrated with the WhatsApp Meta API; automates ~80% of routine inquiries | Python, MCP, LLM |
+| OmniSport | Sports facility management platform with hexagonal architecture | Go, Hexagonal |
+| Resonance | React web application | React, TypeScript |
+| Connect Words | Browser-based word puzzle game | Vanilla JavaScript |
+| Tetris 3D | 3D Tetris rendered in the browser | Vanilla JavaScript |
+| DapurKu Go | Household pantry, inventory, shopping & price tracking backend; successor to PantryKu | Go, PostgreSQL, Redis |
+| Bank Soal | Family question-bank: phone-photo hardcopy → Gemini Flash → markdown → AI practice questions, offline-first with parent review gate | TypeScript, KaTeX, Gemini |
+| Apothecary App | Indonesian apotek & digital-health research + WhatsApp gateway for pharmacy flows (8% health-app adoption, Halodoc-led) | Research → Go |
+| MemoDirector | PAO (Person-Action-Object) casting & memorization director for mnemonic training | TypeScript |
+| Agent Memory (Memory Pi) | Persistent memory layer for AI agents: dense embeddings, importance-weighted recall, multi-agent orchestration | Python, MCP, embeddings |
+| GadaiKu | Privacy-first, offline-first pawn & gold asset tracker for Indonesia: dual engine (KCA + Syariah Rahn), gold appraisal, auto backup, PIN + biometric lock | Flutter, Isar, Riverpod |
 
 ## 🤝 Open contributions
 
