@@ -61,6 +61,9 @@ Source is not public — names, what they do, and stack.
 | MemoDirector | PAO (Person-Action-Object) casting & memorization director for mnemonic training | TypeScript |
 | Agent Memory (Memory Pi) | Persistent memory layer for AI agents: dense embeddings, importance-weighted recall, multi-agent orchestration | Python, MCP, embeddings |
 | GadaiKu | Privacy-first, offline-first pawn & gold asset tracker for Indonesia: dual engine (KCA + Syariah Rahn), gold appraisal, auto backup, PIN + biometric lock | Flutter, Isar, Riverpod |
+| Connect Word (Godot) | Ad-free word grouping puzzle — rows of 4–5 words lock when their theme matches · Godot 4.3 | GDScript, Godot 4.3 |
+| Kid Platformer | 2D platformer character with NES-style 64×64 animations (run/idle/jump/fall/attack) + state machine | GDScript, Godot 4 |
+| Platformer Controller | State-machine CharacterBody2D controller — wall slide/latch, dash, roll, crouch, ground pound, frame-rate independent physics | GDScript, Godot 4.2 |
 
 ## 🤝 Open contributions
 
@@ -79,6 +82,7 @@ I write production code in a broad range of languages — here's what each one s
 | **TypeScript / JavaScript** | React / Next.js apps, Cloudflare Workers, Chrome extensions, canvas tools |
 | **PHP** | Laravel / Lumen APIs, SOAP clients, Google Directory integration |
 | **Dart / Flutter** | Cross-platform mobile apps (pantryku, StoryGrabber mobile, GadaiKu pawn tracker) |
+| **GDScript / Godot** | Game dev — Connect Word (puzzle), Kid Platformer (NES-style 2D), Platformer Controller (state-machine) — Godot 4.2–4.3 |
 | **Kotlin** | Native Android (ketawa-reader-app) |
 | **Rust** | Learning — exploring systems programming |
 | **Shell / Lua** | Dotfiles, dev-server bootstrap, automation |
