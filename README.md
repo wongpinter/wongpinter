@@ -12,8 +12,8 @@ I build systems that move data reliably — API gateways, real-time pipelines, c
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=wongpinter&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wongpinter&layout=compact&theme=dark&langs_count=6&hide=html,css" />
   </a>
 </p>
 
