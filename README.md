@@ -6,7 +6,7 @@
 
 I build systems that move data reliably — API gateways, real-time pipelines, change-data-capture, message brokers, CLI tools, and AI agents. Go is my daily driver, and I ship production code in Python, TypeScript, PHP, and Dart.
 
-> Currently hacking on **[GDM](https://github.com/wongpinter/gdm)** (Go download manager) and **[audiobook-organizer](https://github.com/wongpinter/audiobook-organizer)** (metadata-driven media library organizer).
+> Currently hacking on **[GDM](https://github.com/wongpinter/gdm)** (Go download manager), **[audiobook-organizer](https://github.com/wongpinter/audiobook-organizer)** (metadata-driven media library organizer), and **GadaiKu** (offline-first pawn & gold tracker — Flutter).
 
 ---
 
