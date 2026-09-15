@@ -6,7 +6,7 @@
 
 I build systems that move data reliably — API gateways, real-time pipelines, change-data-capture, message brokers, CLI tools, and AI agents. Go is my daily driver, and I ship production code in Python, TypeScript, PHP, and Dart.
 
-> Currently hacking on **[GDM](https://github.com/wongpinter/gdm)** (Go download manager), **[audiobook-organizer](https://github.com/wongpinter/audiobook-organizer)** (metadata-driven media library organizer), and **GadaiKu** (offline-first pawn & gold tracker — Flutter).
+> Currently hacking on **[MemoDirector](https://github.com/wongpinter/MemoDirector)** (local-first PAO memory trainer — live at [memodirector.web.app](https://memodirector.web.app)), **[GDM](https://github.com/wongpinter/gdm)** (Go download manager), and **[audiobook-organizer](https://github.com/wongpinter/audiobook-organizer)** (metadata-driven media library organizer).
 
 ---
 
@@ -37,8 +37,10 @@ Production-grade tools and libraries — systems programming, data plumbing, and
 | [godoo](https://github.com/wongpinter/godoo) | Odoo XML-RPC wrapper — adopted across 50+ production deployments | Go, XML-RPC |
 | [gosh](https://github.com/wongpinter/gosh) | Configurable SSH server framework: auth, command handling, logging | Go, SSH |
 | [agent-property-mcp](https://github.com/wongpinter/agent-property-mcp) | Production-ready Model Context Protocol (MCP) server in Go, multiple transports | Go, MCP |
-| [sregep-bot](https://github.com/wongpinter/sregep-bot) | Serverless Telegram worklog bot with analytics + GitHub/Jira sync | TypeScript, Cloudflare Workers |
+| [MemoDirector](https://github.com/wongpinter/MemoDirector) | Local-first PAO memory system builder — AI casting, Anki export, Light Studio design. Live: [memodirector.web.app](https://memodirector.web.app) | TypeScript, React 19, Gemini |
+| [pi-livecraft](https://github.com/wongpinter/pi-livecraft) | Craft your own Pi client while it runs — HTML-enhanced Pi workflows | TypeScript |
 | [inktrace](https://github.com/wongpinter/inktrace) | Handwriting worksheet generator, print-ready PDFs | TypeScript |
+| [clipush](https://github.com/wongpinter/clipush) | Simple CLI tool to save raw screenshots to a remote server | Go |
 
 More: [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) · [manga-dl](https://github.com/wongpinter/manga-dl) · [yet-another-lm-extractor](https://github.com/wongpinter/yet-another-lm-extractor) · [ketawa-reader-app](https://github.com/wongpinter/ketawa-reader-app) · [pantryku](https://github.com/wongpinter/pantryku)
 
@@ -58,7 +60,7 @@ Source is not public — names, what they do, and stack.
 | DapurKu Go | Household pantry, inventory, shopping & price tracking backend; successor to PantryKu | Go, PostgreSQL, Redis |
 | Bank Soal | Family question-bank: phone-photo hardcopy → Gemini Flash → markdown → AI practice questions, offline-first with parent review gate | TypeScript, KaTeX, Gemini |
 | Apothecary App | Indonesian apotek & digital-health research + WhatsApp gateway for pharmacy flows (8% health-app adoption, Halodoc-led) | Research → Go |
-| MemoDirector | PAO (Person-Action-Object) casting & memorization director for mnemonic training | TypeScript |
+| sregep-bot | Serverless Telegram worklog bot with analytics + GitHub/Jira sync | TypeScript, Cloudflare Workers |
 | Agent Memory (Memory Pi) | Persistent memory layer for AI agents: dense embeddings, importance-weighted recall, multi-agent orchestration | Python, MCP, embeddings |
 | GadaiKu | Privacy-first, offline-first pawn & gold asset tracker for Indonesia: dual engine (KCA + Syariah Rahn), gold appraisal, auto backup, PIN + biometric lock | Flutter, Isar, Riverpod |
 | Connect Word (Godot) | Ad-free word grouping puzzle — rows of 4–5 words lock when their theme matches · Godot 4.3 | GDScript, Godot 4.3 |
