@@ -32,17 +32,19 @@ Production-grade tools and libraries — systems programming, data plumbing, and
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [walstream](https://github.com/wongpinter/walstream) | Change Data Capture (CDC) tool that tails PostgreSQL WAL and streams changes to message brokers | Go, PostgreSQL, RabbitMQ |
+| [agent-property-mcp](https://github.com/wongpinter/agent-property-mcp) | Production-ready Model Context Protocol (MCP) server in Go, multiple transports | Go, MCP |
 | [gdm](https://github.com/wongpinter/gdm) | Terminal download manager with segmented HTTP and BitTorrent support | Go, BitTorrent |
 | [go-whatsapp](https://github.com/wongpinter/go-whatsapp) | Type-safe Go library for the WhatsApp Business Cloud API — messaging, webhooks, templates, flows | Go |
+| [komiyomi-ext](https://github.com/wongpinter/komiyomi-ext) | Production Android manga, comic (CBZ/CBR), EPUB, and PDF reader with source extensions | Kotlin, Android |
+| [ketawa-reader-app](https://github.com/wongpinter/ketawa-reader-app) | Distraction-free, offline-first Android reader for Ketawa.com humor archive with dual-language i18n | Kotlin, Jetpack Compose, Room |
+| [MemoDirector](https://github.com/wongpinter/MemoDirector) | Local-first PAO memory system builder — AI casting, Anki export, Light Studio design. Live: [memodirector.web.app](https://memodirector.web.app) | TypeScript, React 19, Gemini |
+| [inktrace](https://github.com/wongpinter/inktrace) | Handwriting worksheet generator with in-browser HTML5 canvas and print-ready PDF export | TypeScript, Canvas |
 | [godoo](https://github.com/wongpinter/godoo) | Odoo XML-RPC wrapper — adopted across 50+ production deployments | Go, XML-RPC |
 | [gosh](https://github.com/wongpinter/gosh) | Configurable SSH server framework: auth, command handling, logging | Go, SSH |
-| [agent-property-mcp](https://github.com/wongpinter/agent-property-mcp) | Production-ready Model Context Protocol (MCP) server in Go, multiple transports | Go, MCP |
-| [MemoDirector](https://github.com/wongpinter/MemoDirector) | Local-first PAO memory system builder — AI casting, Anki export, Light Studio design. Live: [memodirector.web.app](https://memodirector.web.app) | TypeScript, React 19, Gemini |
 | [pi-livecraft](https://github.com/wongpinter/pi-livecraft) | Craft your own Pi client while it runs — HTML-enhanced Pi workflows | TypeScript |
-| [inktrace](https://github.com/wongpinter/inktrace) | Handwriting worksheet generator, print-ready PDFs | TypeScript |
 | [clipush](https://github.com/wongpinter/clipush) | Simple CLI tool to save raw screenshots to a remote server | Go |
 
-More: [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) · [manga-dl](https://github.com/wongpinter/manga-dl) · [yet-another-lm-extractor](https://github.com/wongpinter/yet-another-lm-extractor) · [ketawa-reader-app](https://github.com/wongpinter/ketawa-reader-app) · [pantryku](https://github.com/wongpinter/pantryku)
+More: [webnovel-scraper](https://github.com/wongpinter/webnovel-scraper) · [manga-dl](https://github.com/wongpinter/manga-dl) · [yet-another-lm-extractor](https://github.com/wongpinter/yet-another-lm-extractor) · [komiyomi](https://github.com/wongpinter/komiyomi) · [pantryku](https://github.com/wongpinter/pantryku)
 
 ## 🔒 Private / internal projects
 
@@ -85,7 +87,7 @@ I write production code in a broad range of languages — here's what each one s
 | **PHP** | Laravel / Lumen APIs, SOAP clients, Google Directory integration |
 | **Dart / Flutter** | Cross-platform mobile apps (pantryku, StoryGrabber mobile, GadaiKu pawn tracker) |
 | **GDScript / Godot** | Game dev — Connect Word (puzzle), Kid Platformer (NES-style 2D), Platformer Controller (state-machine) — Godot 4.2–4.3 |
-| **Kotlin** | Native Android (ketawa-reader-app) |
+| **Kotlin** | Native Android (komiyomi-ext, ketawa-reader-app) |
 | **Rust** | Learning — exploring systems programming |
 | **Shell / Lua** | Dotfiles, dev-server bootstrap, automation |
 
