@@ -6,7 +6,7 @@
 
 I build systems that move data reliably — API gateways, real-time pipelines, change-data-capture, message brokers, CLI tools, and AI agents. Go is my daily driver, and I ship production code in Python, TypeScript, PHP, and Dart.
 
-> Currently hacking on **[MemoDirector](https://github.com/wongpinter/MemoDirector)** (local-first PAO memory trainer — live at [memodirector.web.app](https://memodirector.web.app)), **[GDM](https://github.com/wongpinter/gdm)** (Go download manager), and **[audiobook-organizer](https://github.com/wongpinter/audiobook-organizer)** (metadata-driven media library organizer).
+> Currently hacking on **[walstream](https://github.com/wongpinter/walstream)** (high-performance PostgreSQL WAL change-data-capture engine), **[gdm](https://github.com/wongpinter/gdm)** (terminal download manager for segmented HTTP & BitTorrent), and **[komiyomi-ext](https://github.com/wongpinter/komiyomi-ext)** (production Android manga & ebook reader with source extensions).
 
 <p align="center">
   <a href="Wongpinter-CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"></a>
