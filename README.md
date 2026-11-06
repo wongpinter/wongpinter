@@ -9,7 +9,6 @@ I build systems that move data reliably — API gateways, real-time pipelines, c
 > Currently hacking on **[walstream](https://github.com/wongpinter/walstream)** (high-performance PostgreSQL WAL change-data-capture engine), **[gdm](https://github.com/wongpinter/gdm)** (terminal download manager for segmented HTTP & BitTorrent), and **[komiyomi-ext](https://github.com/wongpinter/komiyomi-ext)** (production Android manga & ebook reader with source extensions).
 
 <p align="center">
-  <a href="Wongpinter-CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"></a>
   <a href="https://wongpinter.com"><img src="https://img.shields.io/badge/Website-wongpinter.com-informational?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/sugengs/"><img src="https://img.shields.io/badge/LinkedIn-Sugeng-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/the_wongpinter"><img src="https://img.shields.io/badge/X-@the__wongpinter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
@@ -113,7 +112,6 @@ I write production code in a broad range of languages — here's what each one s
 - 💼 **LinkedIn:** [linkedin.com/in/sugengs](https://www.linkedin.com/in/sugengs/)
 - 🐦 **X (Twitter):** [@the_wongpinter](https://twitter.com/the_wongpinter)
 - ✉️ **Email:** [the.wongpinter@gmail.com](mailto:the.wongpinter@gmail.com)
-- 📄 **Resume / CV:** [Download CV (PDF)](Wongpinter-CV.pdf)
 
 > Open to freelance backend / API / automation & AI-agent work. Jakarta timezone (WIB / UTC+7), remote-friendly.
 
