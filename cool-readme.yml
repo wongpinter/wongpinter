@@ -1,0 +1,18 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: wongpinter
+cards: [summary, languages, weekly]
+style: classic
+summary:
+  ring: github
+languages:
+  title: Most used languages
+  count: 6
+weekly:
+  title: Weekly rhythm
+include:
+  private: true
+  orgs: true
+theme:
+  background: transparent
+  border: false
+  animations: true
